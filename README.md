@@ -11,7 +11,7 @@ An intelligent, multi-agent automated pipeline designed to monitor an incoming q
 
 ## 🚀 Technical Stack
 
-- **Language:** Python 3.x
+- **Language:** Python
 - **AI Infrastructure:** Google GenAI SDK (`gemini-2.5-flash`)
 - **Data Validation:** Pydantic (Structured Outputs / JSON Schema enforcement)
 - **File Automation:** Native `os`, `shutil`, and `glob` file handling modules
